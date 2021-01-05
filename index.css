@@ -43,6 +43,9 @@ h1 {
 #blue {
   background-color: blue;
 }
+footer {
+  margin-top: 70px;
+}
 
 .github {
   color: white;
