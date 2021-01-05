@@ -8,5 +8,6 @@ Each level a color is pick and you have to play back all picked colors by order.
   Click on a color to play it.
   If game over press a key to restart the game
 ```
+<img src="ezgif.com-gif-maker (2).gif"></img>
 
 Make with <strong>Html, Javascript, Jquery, Css</strong>
