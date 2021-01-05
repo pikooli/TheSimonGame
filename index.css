@@ -43,3 +43,15 @@ h1 {
 #blue {
   background-color: blue;
 }
+
+.github {
+  color: white;
+  fill: white;
+  text-decoration: none;
+  font-family: "Press Start 2P", cursive;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+}
