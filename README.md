@@ -2,7 +2,7 @@
 
 A musical memory game. 
 
-Each level a color is pick and you have to play back all the picked colors by order.
+Each level a color is pick and you have to play back all picked colors by order.
 ```
   Press a key to start the game.
   Click on a color to play it.
